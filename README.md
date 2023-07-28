@@ -1,4 +1,4 @@
-# WhatsApp_Chat Analysis
+# WhatsApp Chat Analysis
 
 This application can be used to analyze the chats exported from WhatsApp to find many factors such as who has chatted the most or which emoji is sent the most and so on.
 
